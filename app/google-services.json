@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440387603368",
+    "firebase_url": "https://bondhochat.firebaseio.com",
+    "project_id": "bondhochat",
+    "storage_bucket": "bondhochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440387603368:android:44201f2bc31032a6",
+        "android_client_info": {
+          "package_name": "com.sheikhsoft.bondhochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440387603368-5jlbe522d8kqrk0o1vbmdutn5ia9qpdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheikhsoft.bondhochat",
+            "certificate_hash": "c4e1083e33fe38625c91d026bd3b6e15e8c926e5"
+          }
+        },
+        {
+          "client_id": "440387603368-18q4hqlgt87ohrobd8n7c2isesptabj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIxfao7r8GE_0LieiA2SSJ1OQLemFSDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440387603368-18q4hqlgt87ohrobd8n7c2isesptabj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
